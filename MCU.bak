@@ -289,7 +289,6 @@ Wire Wire Line
 	1950 1900 2050 1900
 Wire Wire Line
 	2050 1900 2050 1200
-Connection ~ 2050 1200
 Wire Wire Line
 	2050 1200 2350 1200
 Wire Wire Line
